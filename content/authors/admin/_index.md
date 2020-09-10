@@ -1,7 +1,7 @@
 ---
 organizations:
   - name: National Institute of Technology Delhi
-    url: ""
+    url: https://www.nitdelhi.ac.in/
   - name: POSTECH, Pohang
 superuser: true
 authors:
@@ -23,16 +23,19 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: iitd.prashant@gmail.com
+    - course: Integrated Ph.D.(MS+Ph.D.)  With Computational Applied Mathematics
+      institution: Pohang University of Science and Technology (POSTECH), South Korea
+      year: 2011
+    - course: Maters of Science in Mathematics
+      institution: Indian Institute of Technology (IIT) Delhi, India
+      year: 2005
+    - course: Diploma in Computer Application
+      institution: " LBS Technical Training Institute Ghaziabad, India"
+      year: 2003
+    - course: Bachelors of Science in Mathematics
+      institution: M. J. P. Rohilkhand University, India
+      year: 1998
+email: prashantkumar@nitdelhi.com
 user_groups:
   - Researchers
   - Visitors
