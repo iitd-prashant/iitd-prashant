@@ -11,9 +11,12 @@ role: Assistant Professor of Mathematics
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mathematical Modeling of Linear and Non-linear waves
+  - Harbor Resonance Phenomenon and Moored Ship Motion
+  - Boundary Element Modeling
+  - Hybrid Finite Element Modeling
+  - Climate Change Modeling
+  - Ocean waves
 social:
   - icon: envelope
     icon_pack: fas
