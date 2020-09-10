@@ -18,27 +18,48 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  title = "Visiting Assistant Professor"
+  company = "Department of Mathematics, POSTECH"
+  company_url = "www.postech.ac.kr"
+  location = "Pohang, South Korea"
+  date_start = "2016-06-03"
+  date_end = "2018-06-28"
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  title = "Visiting Assistant Professor"
+  company = "Department of Mathematics, POSTECH"
+  company_url = "www.postech.ac.kr"
+  location = "Pohang, South Korea"
+  date_start = "2015-06-08"
+  date_end = "2015-07-03"
   description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Post-Doctoral Fellow"
+  company = "Climate Change Research Laboratory (CCRL), School of Environmental Sciences, POSTECH"
+  company_url = "www.postech.ac.kr"
+  location = "Pohang, South Korea"
+  date_start = "2014-03-01"
+  date_end = "2015-01-15"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Research Associate"
+  company = "Department of Mathematics, POSTECH"
+  company_url = "www.postech.ac.kr"
+  location = "Pohang, South Korea"
+  date_start = "2014-01-01"
+  date_end = "2014-02-28"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Lecturer"
+  company = "Sachdeva Institute of Technology"
+  company_url = "http://www.sitmathura.org"
+  location = "Mathura, UP, India"
+  date_start = "2006-01-01"
+  date_end = "2007-01-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
 
 +++
