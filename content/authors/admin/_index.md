@@ -1,7 +1,8 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: National Institute of Technology Delhi
     url: ""
+  - name: POSTECH, Pohang
 superuser: true
 authors:
   - admin
@@ -31,7 +32,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: iitd.prashant@gmail.com
 user_groups:
   - Researchers
   - Visitors
